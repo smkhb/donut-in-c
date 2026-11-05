@@ -10,8 +10,9 @@ gcc index.c -o donut -lm
 ```
 
 ## 🎥 What you'll see
+<img width="460" height="460" alt="donut" src="https://github.com/user-attachments/assets/6e9619b3-b122-4c4f-a994-2f586f7d4698" />
 
-...but spinning. Forever. 🔁
+*...but spinning. Forever...*
 
 ## 🧠 How it works
 
