@@ -1,6 +1,6 @@
 # 🍩 donut.c
 
-A spinning 3D donut — in pure C, rendered with ASCII characters in your terminal. ✨
+> A spinning 3D donut — in pure C, rendered with ASCII characters in your terminal. ✨
 
 ## 🚀 Build & Run
 
